@@ -1,0 +1,31 @@
+.thumb-img {
+  height: 140px;
+  width: 200px;
+}
+.list-visited-item {
+  margin: 10px;
+  list-style-type: none;
+  background-color: #334155;
+  height: 200px;
+  width: 200px;
+}
+.list-sub-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.list-para {
+  font-size: 10px;
+  color: white;
+  margin-left: 3px;
+}
+.list-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  padding: 4px 14px 4px 14px;
+  color: #ffffff;
+  margin-right: 3px;
+  cursor: pointer;
+  border-radius: 4px;
+}

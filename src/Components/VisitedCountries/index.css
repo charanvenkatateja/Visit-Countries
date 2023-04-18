@@ -1,0 +1,46 @@
+.list-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1f1f2f;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  height: 80px;
+  width: 1150px;
+  border-bottom: 1px solid #ffffff;
+}
+.country-name {
+  color: #ffffff;
+  font-size: 15px;
+  margin-left: 40px;
+  font-weight: bold;
+}
+.style {
+  background-color: blue;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-bottom: 5px;
+  padding-top: 4px;
+  outline: none;
+  cursor: pointer;
+  font-size: 11px;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  margin-right: 40px;
+}
+.normal {
+  background-color: transparent;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-bottom: 5px;
+  padding-top: 4px;
+  outline: none;
+  cursor: pointer;
+  font-size: 11px;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  margin-right: 40px;
+}

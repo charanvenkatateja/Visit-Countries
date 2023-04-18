@@ -1,0 +1,40 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #161624;
+  min-height: 100vh;
+  background-size: cover;
+}
+.main-heading {
+  font-size: 20px;
+  color: #ffffff;
+  margin-bottom: 8px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.countries-list {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #f8fafc;
+  border-radius: 8px;
+  height: 300px;
+  overflow-y: scroll;
+  overflow-x: none;
+  width: 1170px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  background-color: #161624;
+  padding: 0px;
+}
+.un-list-visited-container {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.empty-list-para {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 300px;
+
+  color: #ffffff;
+}
